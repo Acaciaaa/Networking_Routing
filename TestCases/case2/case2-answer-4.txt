@@ -1,0 +1,11 @@
+dest: 1, next: 7, cost: 17
+dest: 5, next: 7, cost: 12
+dest: 7, next: 7, cost: 9
+dest: 8, next: 7, cost: 16
+dest: 9, next: 9, cost: 0
+
+dest: 1, next: 5, cost: 9
+dest: 5, next: 5, cost: 4
+dest: 7, next: 5, cost: 7
+dest: 8, next: 8, cost: 0
+dest: 9, next: 5, cost: 16

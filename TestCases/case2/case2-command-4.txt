@@ -1,0 +1,8 @@
+dv
+update:5,9,-1
+update:9,5,-1
+update:8,9,1111
+update:9,8,1111
+dv
+show:9
+show:8

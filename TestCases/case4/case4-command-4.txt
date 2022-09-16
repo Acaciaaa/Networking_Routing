@@ -1,0 +1,13 @@
+dv
+update:5,7,675
+update:7,5,675
+dv
+show:1
+update:3,7,512
+update:7,3,512
+update:12,15,1
+update:15,12,1
+dv
+show:2
+show:10
+show:1

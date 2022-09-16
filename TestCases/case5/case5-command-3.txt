@@ -1,0 +1,14 @@
+dv
+update:2,4,63
+update:4,2,63
+show:5
+update:6,10,-1
+update:10,6,-1
+dv
+show:9
+update:3,9,1024
+update:9,3,1024
+update:3,7,8
+update:7,3,8
+dv
+show:10

@@ -1,0 +1,17 @@
+dv
+update:7,8,-1
+update:8,7,-1
+show:5
+update:1,2,9
+update:2,1,9
+dv
+show:7
+update:10,15,1024
+update:15,10,1024
+show:3
+update:5,12,10
+update:12,5,10
+dv
+show:7
+show:10
+show:8

@@ -1,0 +1,29 @@
+dest: 1, next: 1, cost: 0
+dest: 5, next: 5, cost: 5
+dest: 7, next: 5, cost: 8
+dest: 8, next: 5, cost: 9
+dest: 9, next: 5, cost: 15
+
+dest: 1, next: 1, cost: 5
+dest: 5, next: 5, cost: 0
+dest: 7, next: 7, cost: 3
+dest: 8, next: 8, cost: 4
+dest: 9, next: 8, cost: 10
+
+dest: 1, next: 5, cost: 8
+dest: 5, next: 5, cost: 3
+dest: 7, next: 7, cost: 0
+dest: 8, next: 5, cost: 7
+dest: 9, next: 9, cost: 9
+
+dest: 1, next: 5, cost: 9
+dest: 5, next: 5, cost: 4
+dest: 7, next: 5, cost: 7
+dest: 8, next: 8, cost: 0
+dest: 9, next: 9, cost: 6
+
+dest: 1, next: 8, cost: 15
+dest: 5, next: 8, cost: 10
+dest: 7, next: 7, cost: 9
+dest: 8, next: 8, cost: 6
+dest: 9, next: 9, cost: 0
